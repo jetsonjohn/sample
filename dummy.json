@@ -1,0 +1,543 @@
+{
+    "nodes": [
+        {
+            "name": "Reconciliation",
+            "category": "city",
+            "values": "5.13",
+            "color": "#d3863f",
+            "id": "parent",
+            "bublesize": 18,
+            "match": 10,
+            "content": "",
+            "textValue": "",
+            "image": 0
+        },
+        {
+            "id": "15",
+            "name": "Cultural Distance",
+            "values": "6.63",
+            "color": "#c5c52e",
+            "bublesize": 12,
+            "match": 10,
+            "textValue": "",
+            "image": 0
+        },
+        {
+            "id": "1350",
+            "name": "Food Preferences",
+            "values": "0.44",
+            "color": "#70a3d7",
+            "bublesize": 6,
+            "match": 10,
+            "textValue": "",
+            "image": 0
+        },
+        {
+            "id": "1351",
+            "name": "Religious & Spiritual  Beliefs",
+            "values": "0.92",
+            "color": "#70a3d7",
+            "bublesize": 6,
+            "match": 10,
+            "textValue": "",
+            "image": 0
+        },
+        {
+            "id": "1352",
+            "name": "Way of thinking",
+            "values": "0.58",
+            "color": "#70a3d7",
+            "bublesize": 6,
+            "match": 10,
+            "textValue": "",
+            "image": 0
+        },
+        {
+            "id": "1353",
+            "name": "Values",
+            "values": "0.55",
+            "color": "#70a3d7",
+            "bublesize": 6,
+            "match": 10,
+            "textValue": "",
+            "image": 0
+        },
+        {
+            "id": "1354",
+            "name": "Customs & Habits",
+            "values": "0.83",
+            "color": "#70a3d7",
+            "bublesize": 6,
+            "match": 10,
+            "textValue": "",
+            "image": 0
+        },
+        {
+            "id": "1361",
+            "name": "Music Preferences",
+            "values": "0.70",
+            "color": "#70a3d7",
+            "bublesize": 6,
+            "match": 10,
+            "textValue": "",
+            "image": 0
+        },
+        {
+            "id": "37",
+            "name": "Negative Stereotypes",
+            "values": "3.50",
+            "color": "#c5c52e",
+            "bublesize": 12,
+            "match": 10,
+            "textValue": "",
+            "image": 0
+        },
+        {
+            "id": "1375",
+            "name": "Friendly",
+            "values": "0.34",
+            "color": "#70a3d7",
+            "bublesize": 6,
+            "match": 10,
+            "textValue": "",
+            "image": 0
+        },
+        {
+            "id": "1376",
+            "name": "Lazy",
+            "values": "0.27",
+            "color": "#70a3d7",
+            "bublesize": 6,
+            "match": 10,
+            "textValue": "",
+            "image": 0
+        },
+        {
+            "id": "1377",
+            "name": "Intelligent",
+            "values": "0.38",
+            "color": "#70a3d7",
+            "bublesize": 6,
+            "match": 10,
+            "textValue": "",
+            "image": 0
+        },
+        {
+            "id": "1378",
+            "name": "Hard Working",
+            "values": "0.18",
+            "color": "#70a3d7",
+            "bublesize": 6,
+            "match": 10,
+            "textValue": "",
+            "image": 0
+        },
+        {
+            "id": "1379",
+            "name": "Filthy",
+            "values": "0.19",
+            "color": "#70a3d7",
+            "bublesize": 6,
+            "match": 10,
+            "textValue": "",
+            "image": 0
+        },
+        {
+            "id": "1380",
+            "name": "Violent",
+            "values": "0.41",
+            "color": "#70a3d7",
+            "bublesize": 6,
+            "match": 10,
+            "textValue": "",
+            "image": 0
+        },
+        {
+            "id": "38",
+            "name": "Intergroup Anxiety",
+            "values": "4.22",
+            "color": "#c5c52e",
+            "bublesize": 12,
+            "match": 10,
+            "textValue": "",
+            "image": 0
+        },
+        {
+            "id": "1369",
+            "name": "Threatening",
+            "values": "0.39",
+            "color": "#70a3d7",
+            "bublesize": 6,
+            "match": 10,
+            "textValue": "",
+            "image": 0
+        },
+        {
+            "id": "1370",
+            "name": "Calm",
+            "values": "0.41",
+            "color": "#70a3d7",
+            "bublesize": 6,
+            "match": 10,
+            "textValue": "",
+            "image": 0
+        },
+        {
+            "id": "1371",
+            "name": "Distressed",
+            "values": "0.34",
+            "color": "#70a3d7",
+            "bublesize": 6,
+            "match": 10,
+            "textValue": "",
+            "image": 0
+        },
+        {
+            "id": "1372",
+            "name": "Peaceful",
+            "values": "0.46",
+            "color": "#70a3d7",
+            "bublesize": 6,
+            "match": 10,
+            "textValue": "",
+            "image": 0
+        },
+        {
+            "id": "1373",
+            "name": "Danger",
+            "values": "0.50",
+            "color": "#70a3d7",
+            "bublesize": 6,
+            "match": 10,
+            "textValue": "",
+            "image": 0
+        },
+        {
+            "id": "1374",
+            "name": "Relaxed",
+            "values": "0.42",
+            "color": "#70a3d7",
+            "bublesize": 6,
+            "match": 10,
+            "textValue": "",
+            "image": 0
+        },
+        {
+            "id": "39",
+            "name": "Social Distance",
+            "values": "4.61",
+            "color": "#c5c52e",
+            "bublesize": 12,
+            "match": 10,
+            "textValue": "",
+            "image": 0
+        },
+        {
+            "id": "1355",
+            "name": "Marriage",
+            "values": "0.79",
+            "color": "#70a3d7",
+            "bublesize": 6,
+            "match": 10,
+            "textValue": "",
+            "image": 0
+        },
+        {
+            "id": "1356",
+            "name": "Personal Relationship",
+            "values": "0.18",
+            "color": "#70a3d7",
+            "bublesize": 6,
+            "match": 10,
+            "textValue": "",
+            "image": 0
+        },
+        {
+            "id": "1357",
+            "name": "Friendship",
+            "values": "0.41",
+            "color": "#70a3d7",
+            "bublesize": 6,
+            "match": 10,
+            "textValue": "",
+            "image": 0
+        },
+        {
+            "id": "1358",
+            "name": "Neighbours",
+            "values": "0.37",
+            "color": "#70a3d7",
+            "bublesize": 6,
+            "match": 10,
+            "textValue": "",
+            "image": 0
+        },
+        {
+            "id": "1359",
+            "name": "Co-workers",
+            "values": "0.31",
+            "color": "#70a3d7",
+            "bublesize": 6,
+            "match": 10,
+            "textValue": "",
+            "image": 0
+        },
+        {
+            "id": "1360",
+            "name": "Supervisor",
+            "values": "0.67",
+            "color": "#70a3d7",
+            "bublesize": 6,
+            "match": 10,
+            "textValue": "",
+            "image": 0
+        },
+        {
+            "id": "40",
+            "name": "Social threats",
+            "values": "4.99",
+            "color": "#c5c52e",
+            "bublesize": 12,
+            "match": 10,
+            "textValue": "",
+            "image": 0
+        },
+        {
+            "id": "1363",
+            "name": "Corrupt Religious Values",
+            "values": "0.37",
+            "color": "#70a3d7",
+            "bublesize": 6,
+            "match": 10,
+            "textValue": "",
+            "image": 0
+        },
+        {
+            "id": "1364",
+            "name": "Less Job Opportunities",
+            "values": "0.72",
+            "color": "#70a3d7",
+            "bublesize": 6,
+            "match": 10,
+            "textValue": "",
+            "image": 0
+        },
+        {
+            "id": "1365",
+            "name": "Degrade Language of Community",
+            "values": "0.42",
+            "color": "#70a3d7",
+            "bublesize": 6,
+            "match": 10,
+            "textValue": "",
+            "image": 0
+        },
+        {
+            "id": "1366",
+            "name": "Increase Criminal Rates",
+            "values": "0.43",
+            "color": "#70a3d7",
+            "bublesize": 6,
+            "match": 10,
+            "textValue": "",
+            "image": 0
+        },
+        {
+            "id": "1367",
+            "name": "Blood Purity",
+            "values": "0.43",
+            "color": "#70a3d7",
+            "bublesize": 6,
+            "match": 10,
+            "textValue": "",
+            "image": 0
+        },
+        {
+            "id": "1368",
+            "name": "Damage the Economic Development",
+            "values": "0.63",
+            "color": "#70a3d7",
+            "bublesize": 6,
+            "match": 10,
+            "textValue": "",
+            "image": 0
+        }
+    ],
+    "links": [
+        {
+            "source": "15",
+            "target": "parent",
+            "correlation": "-0.66"
+        },
+        {
+            "source": "1350",
+            "target": "15",
+            "correlation": "0.70"
+        },
+        {
+            "source": "1351",
+            "target": "15",
+            "correlation": "0.50"
+        },
+        {
+            "source": "1352",
+            "target": "15",
+            "correlation": "0.73"
+        },
+        {
+            "source": "1353",
+            "target": "15",
+            "correlation": "0.74"
+        },
+        {
+            "source": "1354",
+            "target": "15",
+            "correlation": "0.66"
+        },
+        {
+            "source": "1361",
+            "target": "15",
+            "correlation": "0.65"
+        },
+        {
+            "source": "37",
+            "target": "parent",
+            "correlation": "-0.69"
+        },
+        {
+            "source": "1375",
+            "target": "37",
+            "correlation": "0.72"
+        },
+        {
+            "source": "1376",
+            "target": "37",
+            "correlation": "0.44"
+        },
+        {
+            "source": "1377",
+            "target": "37",
+            "correlation": "0.44"
+        },
+        {
+            "source": "1378",
+            "target": "37",
+            "correlation": "0.32"
+        },
+        {
+            "source": "1379",
+            "target": "37",
+            "correlation": "0.47"
+        },
+        {
+            "source": "1380",
+            "target": "37",
+            "correlation": "0.64"
+        },
+        {
+            "source": "38",
+            "target": "parent",
+            "correlation": "-0.67"
+        },
+        {
+            "source": "1369",
+            "target": "38",
+            "correlation": "0.73"
+        },
+        {
+            "source": "1370",
+            "target": "38",
+            "correlation": "0.67"
+        },
+        {
+            "source": "1371",
+            "target": "38",
+            "correlation": "0.70"
+        },
+        {
+            "source": "1372",
+            "target": "38",
+            "correlation": "0.73"
+        },
+        {
+            "source": "1373",
+            "target": "38",
+            "correlation": "0.70"
+        },
+        {
+            "source": "1374",
+            "target": "38",
+            "correlation": "0.75"
+        },
+        {
+            "source": "39",
+            "target": "parent",
+            "correlation": "-0.78"
+        },
+        {
+            "source": "1355",
+            "target": "39",
+            "correlation": "0.73"
+        },
+        {
+            "source": "1356",
+            "target": "39",
+            "correlation": "0.61"
+        },
+        {
+            "source": "1357",
+            "target": "39",
+            "correlation": "0.73"
+        },
+        {
+            "source": "1358",
+            "target": "39",
+            "correlation": "0.75"
+        },
+        {
+            "source": "1359",
+            "target": "39",
+            "correlation": "0.72"
+        },
+        {
+            "source": "1360",
+            "target": "39",
+            "correlation": "0.60"
+        },
+        {
+            "source": "40",
+            "target": "parent",
+            "correlation": "-0.76"
+        },
+        {
+            "source": "1363",
+            "target": "40",
+            "correlation": "0.74"
+        },
+        {
+            "source": "1364",
+            "target": "40",
+            "correlation": "0.72"
+        },
+        {
+            "source": "1365",
+            "target": "40",
+            "correlation": "0.74"
+        },
+        {
+            "source": "1366",
+            "target": "40",
+            "correlation": "0.62"
+        },
+        {
+            "source": "1367",
+            "target": "40",
+            "correlation": "0.71"
+        },
+        {
+            "source": "1368",
+            "target": "40",
+            "correlation": "0.81"
+        }
+    ]
+}
